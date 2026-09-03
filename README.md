@@ -65,6 +65,14 @@ AI/ML is applied as an engineering layer across telemetry, race intelligence, fo
 
 Extending live-f1-intelligence's analysis engine and hardening its AI layer; developing F1 Race Manager, an in-development Unity/C# race-management simulation covering strategy, reliability, finance and car development; continuing an AI/ML internship at IGNICT (since August 2026).
 
+## GitHub Metrics
+
+<div align="center">
+  <a href="https://github.com/T-Bone47">
+    <img src="https://github-readme-stats.vercel.app/api?username=T-Bone47&show_icons=true&hide_title=true&theme=transparent&hide_border=true" alt="Oliver's GitHub Stats" />
+  </a>
+</div>
+
 ## Contact
 
 [dreamteamoliver@gmail.com](mailto:dreamteamoliver@gmail.com) · [LinkedIn](https://www.linkedin.com/in/asish-oliver-56b454324) · Trichy, Tamil Nadu, India
