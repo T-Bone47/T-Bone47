@@ -1,98 +1,70 @@
-# Hi there, I'm Asish Oliver M 👋
+# Asish Oliver M
 
-> Full Stack Developer • AI/ML Beginner • Game Developer — Building meaningful products and learning cutting‑edge ML techniques.
+**Motorsport Software Engineering · Telemetry & Simulation · AI/ML**
 
-![Header Banner](https://via.placeholder.com/900x200.png?text=Minimalist+Header+Banner+%7C+Replace+with+Your+Own)  
-*(Replace the banner above with a custom SVG/GIF for a typing animation or a clean minimalist header.)*
-
----
-
-## About Me
-- 🎯 **Current focus:** Building a scalable SaaS product and contributing to open-source projects.  
-- 📚 **Learning:** Diving into Machine Learning & AI — experimenting with Python toolkits and model prototyping.  
-- 💬 **How to reach me:** Open to collaboration, mentorship, and interesting engineering challenges. See Contact section below.  
-- 🎮 **Fun fact:** Avid gamer and problem-solver — I enjoy turning game-design patterns into elegant software solutions.
+Integrated M.Tech Computer Science student (VIT-AP University) working across software engineering, AI/ML and motorsport data. I've been building proprietary lap-simulation and race-strategy software as an independent Race & Strategy Engineer for eSports/sim-racing teams since 2025, and I'm currently an AI/ML Intern at IGNICT. All performance claims cite measured results from working implementations.
 
 ---
 
-## Tech Stack & Tools
+## About
 
-### Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/-HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
+Building toward a career in high-performance motorsport software engineering: real-time telemetry ingestion, numerical and data analysis, race-strategy modelling, performance analysis, vehicle-performance engineering, lap simulation, and the AI/ML layers that turn raw data into engineering decisions.
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-20232A?style=flat-square&logo=express&logoColor=000000)
-![Django](https://img.shields.io/badge/-Django-20232A?style=flat-square&logo=django&logoColor=FFFFFF)
+## Motorsport Engineering
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/-Java-20232A?style=flat-square&logo=java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+**Independent Motorsport / eSports — Race & Strategy Engineer** · Remote · 2025–Present
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-20232A?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/-AWS-20232A?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-
-### Data & AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-20232A?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/-PyTorch-20232A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-
-### Tools & Productivity
-![Git](https://img.shields.io/badge/-Git-20232A?style=flat-square&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/-VS%20Code-20232A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/-Postman-20232A?style=flat-square&logo=postman&logoColor=FF6C37)
-
----
-
-## Dynamic GitHub Stats
-<!-- Replace <YOUR_GITHUB_USERNAME> with your GitHub username -->
-
-<!-- Profile Readme Stats -->
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=dark&hide_border=true)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=dark&hide_border=true)
-
-<!-- Streak / Contribution Graph -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_GITHUB_USERNAME>&theme=dark&hide_border=true)
-
-<!-- Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=<YOUR_GITHUB_USERNAME>&theme=dark)
-
-> Pro tip: Replace <YOUR_GITHUB_USERNAME> in the URLs above to activate the widgets.
-
----
+Proprietary lap-simulation and race-strategy software for eSports/sim-racing teams, using performance data and simulation to evaluate lap performance, race scenarios, tyre strategy and pit-window decisions, and translate model outputs into actionable race strategy.
 
 ## Featured Projects
-- [Project One — SaaS Starter](https://github.com/<YOUR_GITHUB_USERNAME>/project-one)  
-  Lightweight, modular SaaS boilerplate with authentication, billing, and feature flags. • React · Node · PostgreSQL
 
-- [Project Two — Open Source Contribution](https://github.com/<YOUR_GITHUB_USERNAME>/project-two)  
-  Meaningful contributions to community tooling—focus on performance and DX improvements. • Python · Django
+### [live-f1-intelligence](https://github.com/T-Bone47/live-f1-intelligence)
+Real-time Formula 1 data and race-intelligence platform. Multi-provider ingestion (OpenF1, F1 SignalR, FastF1, Jolpica), canonical event modelling with provenance tracking, deterministic replay, and a deterministic analysis engine covering timing, sectors, rolling pace, tyre-degradation regression, a battle-detection state machine, race-control state, strategy candidates, qualifying intelligence and practice intelligence. Tested and backtested against real captured F1 data.
 
-- [Project Three — Game Dev Prototype](https://github.com/<YOUR_GITHUB_USERNAME>/project-three)  
-  Small game prototype exploring gameplay loops and procedural generation. • Unity · C# / JS tooling
+| Metric | Result |
+|---|---:|
+| Canonical events processed | 1,067,193 |
+| Malformed records | 0 |
+| Throughput | ~2,650 events/s |
+| Processing latency | ~0.10 ms p50/event |
+| Peak memory | 99 MB |
 
----
+`Python` `FastAPI` `PostgreSQL / TimescaleDB` `WebSockets` `React` `TypeScript`
 
-## How I Work
-- Agile-minded: incremental delivery, test-driven, and feedback-centric.  
-- Collaboration-first: clear PRs, well-scoped issues, and documentation that empowers contributors.  
-- Learning loop: experiment → measure → refactor → share (tech-blog + talks).
+### [RaceMind-AI](https://github.com/T-Bone47/RaceMind-AI)
+AI-assisted race-engineering software for **sim racing** — a game-agnostic telemetry abstraction (Codemasters F1 titles implemented; Assetto Corsa/ACC/iRacing/rFactor2 planned), a real UDP telemetry listener, a rule-based strategy engine (pit windows, undercut/overcut, tyre & weather modelling), telemetry-driven driver coaching, and an LLM-driven AI Engineer for session Q&A. Backend implemented and tested against SQLite and real Postgres. Frontend and desktop application not yet built. Per-game packet decoding beyond Codemasters F1 titles remains stubbed.
 
----
+`FastAPI` `SQLAlchemy 2.0 (async)` `PostgreSQL` `Alembic` `WebSockets` `JWT`
 
-## Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<YOUR_LINKEDIN_HANDLE>) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/<YOUR_TWITTER_HANDLE>) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@yourdomain.com) 
-[![Resume](https://img.shields.io/badge/-Resume-6f42c1?style=flat-square&logo=google-chrome&logoColor=white)](https://yourdomain.com/resume.pdf)
+### VyaparPulse
+Team project (Smart India Hackathon) — an AI-powered financial intelligence platform for micro-businesses, combining voice-driven transaction entry (Vosk speech-to-text) with XGBoost-based revenue forecasting.
 
----
+## AI/ML Engineering
 
-Thank you for stopping by — I'm always open to collaborate on projects that scale, teach, or delight. Feel free to open an issue or PR on any of my repos, or ping me on LinkedIn to start a conversation. 🚀
+AI/ML is applied as an engineering layer across telemetry, race intelligence, forecasting and decision support: a grounded, validated LLM analysis layer in live-f1-intelligence (Gemini-based, with a grounding validator and dedicated test coverage), an Anthropic-API-driven AI Engineer in RaceMind-AI, an XGBoost forecasting pipeline in VyaparPulse, and an F1 lap-time regression model — preprocessing, feature engineering and evaluation with Pandas, NumPy, Matplotlib and Scikit-learn.
+
+## Technical Stack
+
+**Languages** — Python · C++ · C# · Java · MATLAB · SQL · TypeScript · JavaScript
+
+**AI / Machine Learning** — XGBoost · Vosk (speech-to-text) · Pandas · NumPy · Matplotlib · Scikit-learn · LLM integration (Gemini, Anthropic) · Regression · Feature Engineering
+
+**Backend & Software Engineering** — FastAPI · SQLAlchemy · WebSockets · Docker · Git/GitHub · Pytest · Data Validation · Deterministic Replay / Backtesting
+
+**Data & Infrastructure** — PostgreSQL · TimescaleDB
+
+**Motorsport Data & Telemetry** — FastF1 · OpenF1 · Jolpica F1 API · F1 SignalR · UDP Telemetry · MoTeC i2 Pro · Session Replay
+
+**Motorsport Simulation & Vehicle Performance** — OptimumLap · OpenLAP / OpenLapSim · ChassisSim · Canopy Simulations · AVL VSM · Vehicle Dynamics Fundamentals · F1 Aerodynamics Fundamentals · CFD Fundamentals
+
+**Interactive & Simulation Systems** — Unity · C# *(F1 Race Manager, in development)*
+
+**Engineering Methods** — Lap/Sector Analysis · Pace Comparison · Tyre Degradation · Pit-Window Analysis · Undercut/Overcut · Fuel Modelling · Race Strategy · Race Simulation
+
+## Currently Building
+
+Extending live-f1-intelligence's analysis engine and hardening its AI layer; developing F1 Race Manager, an in-development Unity/C# race-management simulation covering strategy, reliability, finance and car development; continuing an AI/ML internship at IGNICT (since August 2026).
+
+## Contact
+
+[dreamteamoliver@gmail.com](mailto:dreamteamoliver@gmail.com) · [LinkedIn](https://www.linkedin.com/in/asish-oliver-56b454324) · Trichy, Tamil Nadu, India
