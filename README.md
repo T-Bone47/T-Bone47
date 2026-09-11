@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/T-Bone47/T-Bone47/main/assets/asish-engineering-banner.png" alt="ASISH OLIVER M — Motorsport Software Engineer and AI/ML Engineer" width="100%" />
+  <img src="https://github.com/T-Bone47/T-Bone47/blob/main/assets/asish-engineering-banner.svg?raw=true" alt="ASISH OLIVER M — Motorsport Software Engineer and AI/ML Engineer" width="100%" />
 </p>
 
 <h1 align="center">ASISH OLIVER M</h1>
