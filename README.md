@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/asish-engineering-banner.png" alt="ASISH OLIVER M — Motorsport Software Engineer and AI/ML Engineer" width="100%" />
+</p>
+
 # Asish Oliver M
 
 **Motorsport Software Engineering · Telemetry & Simulation · AI/ML**
