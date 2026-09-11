@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/T-Bone47/T-Bone47/blob/main/assets/asish-engineering-banner.svg?raw=true" alt="ASISH OLIVER M — Motorsport Software Engineer and AI/ML Engineer" width="100%" />
+  <img
+    src="./assets/asish-github-banner.jpg"
+    alt="ASISH OLIVER M — Motorsport Software Engineer and AI/ML Engineer"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">ASISH OLIVER M</h1>
