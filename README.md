@@ -1,74 +1,211 @@
 <p align="center">
-  <img src="./assets/asish-engineering-banner.png" alt="ASISH OLIVER M — Motorsport Software Engineer and AI/ML Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/T-Bone47/T-Bone47/main/assets/asish-engineering-banner.png" alt="ASISH OLIVER M — Motorsport Software Engineer and AI/ML Engineer" width="100%" />
 </p>
 
-# Asish Oliver M
+<h1 align="center">ASISH OLIVER M</h1>
 
-**Motorsport Software Engineering · Telemetry & Simulation · AI/ML**
+<p align="center">
+  <strong>Motorsport Software Engineer · AI/ML Engineer</strong><br/>
+  Building software, simulation, telemetry and intelligent systems for engineering problems.
+</p>
 
-Integrated M.Tech Computer Science student (VIT-AP University) working across software engineering, AI/ML and motorsport data. I've been building proprietary lap-simulation and race-strategy software as an independent Race & Strategy Engineer for eSports/sim-racing teams since 2025, and I'm currently an AI/ML Intern at IGNICT. All performance claims cite measured results from working implementations.
+<p align="center">
+  <a href="https://github.com/T-Bone47">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/asish-oliver-56b454324">LinkedIn</a> ·
+  <a href="mailto:dreamteamoliver@gmail.com">Email</a>
+</p>
 
 ---
 
-## About
+## ENGINEERING PROFILE
 
-Building toward a career in high-performance motorsport software engineering: real-time telemetry ingestion, numerical and data analysis, race-strategy modelling, performance analysis, vehicle-performance engineering, lap simulation, and the AI/ML layers that turn raw data into engineering decisions.
+I build systems at the intersection of **motorsport, software engineering, simulation, telemetry and AI/ML**.
 
-## Motorsport Engineering
+My engineering approach is:
 
-**Independent Motorsport / eSports — Race & Strategy Engineer** · Remote · 2025–Present
+```text
+DATA → MODELS → SYSTEMS → SIMULATION → INTELLIGENCE → ENGINEERING DECISIONS
+```
 
-Proprietary lap-simulation and race-strategy software for eSports/sim-racing teams, using performance data and simulation to evaluate lap performance, race scenarios, tyre strategy and pit-window decisions, and translate model outputs into actionable race strategy.
+The goal is not to use AI for its own sake. The goal is to build software that can ingest real data, model a problem, validate the result, expose uncertainty and turn the output into a useful engineering decision.
 
-## Featured Projects
+**Primary domains**
 
-### [live-f1-intelligence](https://github.com/T-Bone47/live-f1-intelligence)
-Real-time Formula 1 data and race-intelligence platform. Multi-provider ingestion (OpenF1, F1 SignalR, FastF1, Jolpica), canonical event modelling with provenance tracking, deterministic replay, and a deterministic analysis engine covering timing, sectors, rolling pace, tyre-degradation regression, a battle-detection state machine, race-control state, strategy candidates, qualifying intelligence and practice intelligence. Tested and backtested against real captured F1 data.
+`Real-Time Systems` `Telemetry` `Race Strategy` `Numerical Simulation` `Vehicle Performance` `AI/ML` `Data Engineering` `Decision Support`
 
-| Metric | Result |
+---
+
+## SIGNATURE SYSTEMS
+
+### 01 · LIVE F1 INTELLIGENCE
+**Real-time Formula 1 data + deterministic race intelligence**
+
+A production-grade F1 intelligence platform built around provider abstraction, canonical event modelling, provenance, recording/replay and deterministic analysis. The public repository documents real captured-data validation and backtesting.
+
+| Verified result | Value |
 |---|---:|
-| Canonical events processed | 1,067,193 |
-| Malformed records | 0 |
-| Throughput | ~2,650 events/s |
-| Processing latency | ~0.10 ms p50/event |
-| Peak memory | 99 MB |
+| Canonical events | **1,067,193** |
+| Malformed records | **0** |
+| Throughput | **~2,650 events/s** |
+| p50 processing latency | **~0.10 ms/event** |
+| Peak memory | **99 MB** |
 
-`Python` `FastAPI` `PostgreSQL / TimescaleDB` `WebSockets` `React` `TypeScript`
+**Core systems:** OpenF1 · F1 SignalR abstraction · FastF1 · Jolpica · replay pipeline · canonical schemas · provenance · validation/dedupe · timing/sector analysis · rolling pace · tyre-degradation estimation · battle FSM · strategy primitives.
 
-### [RaceMind-AI](https://github.com/T-Bone47/RaceMind-AI)
-AI-assisted race-engineering software for **sim racing** — a game-agnostic telemetry abstraction (Codemasters F1 titles implemented; Assetto Corsa/ACC/iRacing/rFactor2 planned), a real UDP telemetry listener, a rule-based strategy engine (pit windows, undercut/overcut, tyre & weather modelling), telemetry-driven driver coaching, and an LLM-driven AI Engineer for session Q&A. Backend implemented and tested against SQLite and real Postgres. Frontend and desktop application not yet built. Per-game packet decoding beyond Codemasters F1 titles remains stubbed.
+→ **[Explore repository](https://github.com/T-Bone47/live-f1-intelligence)**
 
-`FastAPI` `SQLAlchemy 2.0 (async)` `PostgreSQL` `Alembic` `WebSockets` `JWT`
+---
 
-### VyaparPulse
-Team project (Smart India Hackathon) — an AI-powered financial intelligence platform for micro-businesses, combining voice-driven transaction entry (Vosk speech-to-text) with XGBoost-based revenue forecasting.
+### 02 · F1 LAP-TIME SIMULATOR
+**Numerical vehicle-performance engineering**
 
-## AI/ML Engineering
+A quasi-steady-state point-mass lap-time simulation project covering track modelling, tyre grip, aerodynamic downforce/drag, power-limited traction and friction-circle constraints. A Python/NumPy reference implementation is used for numerical verification while the MATLAB implementation is brought toward V1 completion.
 
-AI/ML is applied as an engineering layer across telemetry, race intelligence, forecasting and decision support: a grounded, validated LLM analysis layer in live-f1-intelligence (Gemini-based, with a grounding validator and dedicated test coverage), an Anthropic-API-driven AI Engineer in RaceMind-AI, an XGBoost forecasting pipeline in VyaparPulse, and an F1 lap-time regression model — preprocessing, feature engineering and evaluation with Pandas, NumPy, Matplotlib and Scikit-learn.
+**Engineering focus:** lap-time solving · corner-speed modelling · grip limits · aero trade-offs · sector analysis · performance decomposition · solver convergence · analytical validation.
 
-## Technical Stack
+`MATLAB` `Python` `NumPy` `Vehicle Dynamics` `Lap Simulation`
 
-**Languages** — Python · C++ · C# · Java · MATLAB · SQL · TypeScript · JavaScript
+---
 
-**AI / Machine Learning** — XGBoost · Vosk (speech-to-text) · Pandas · NumPy · Matplotlib · Scikit-learn · LLM integration (Gemini, Anthropic) · Regression · Feature Engineering
+### 03 · RACEMIND-AI
+**AI-assisted race engineering for sim racing**
 
-**Backend & Software Engineering** — FastAPI · SQLAlchemy · WebSockets · Docker · Git/GitHub · Pytest · Data Validation · Deterministic Replay / Backtesting
+A game-agnostic race-engineering backend with real UDP telemetry ingestion, strategy reasoning, tyre/weather/fuel modelling, driver coaching and an LLM-driven AI Engineer for session questions. Codemasters F1 telemetry is implemented; additional simulators are planned.
 
-**Data & Infrastructure** — PostgreSQL · TimescaleDB
+**Core systems:** FastAPI · async SQLAlchemy · PostgreSQL · WebSockets · JWT · Pytest · telemetry abstraction · strategy engine · AI Engineer.
 
-**Motorsport Data & Telemetry** — FastF1 · OpenF1 · Jolpica F1 API · F1 SignalR · UDP Telemetry · MoTeC i2 Pro · Session Replay
+→ **[Explore repository](https://github.com/T-Bone47/RaceMind-AI)**
 
-**Motorsport Simulation & Vehicle Performance** — OptimumLap · OpenLAP / OpenLapSim · ChassisSim · Canopy Simulations · AVL VSM · Vehicle Dynamics Fundamentals · F1 Aerodynamics Fundamentals · CFD Fundamentals
+---
 
-**Interactive & Simulation Systems** — Unity · C# *(F1 Race Manager, in development)*
+### 04 · F1 RACE MANAGER
+**F1 Team Management & Strategy Simulation Game · IN DEVELOPMENT**
 
-**Engineering Methods** — Lap/Sector Analysis · Pace Comparison · Tyre Degradation · Pit-Window Analysis · Undercut/Overcut · Fuel Modelling · Race Strategy · Race Simulation
+A Unity/C# management simulation centred on the engineering decisions around a race team: strategy, tyre and pit decisions, weather, Safety Car/VSC, reliability, traffic, driver/staff attributes, finance, facilities and car development.
 
-## Currently Building
+→ **[Explore repository](https://github.com/T-Bone47/race-manager)**
 
-Extending live-f1-intelligence's analysis engine and hardening its AI layer; developing F1 Race Manager, an in-development Unity/C# race-management simulation covering strategy, reliability, finance and car development; continuing an AI/ML internship at IGNICT (since August 2026).
+---
 
-## Contact
+### 05 · EA FC INTELLIGENCE
+**Large-scale football intelligence and recommendation system · ACTIVE**
 
-[dreamteamoliver@gmail.com](mailto:dreamteamoliver@gmail.com) · [LinkedIn](https://www.linkedin.com/in/asish-oliver-56b454324) · Trichy, Tamil Nadu, India
+An AI/ML project focused on building a **16,228-player FC26 intelligence and recommendation engine** — combining structured player data, feature engineering, ranking/recommendation logic and decision-oriented analysis.
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Recommendation Systems` `Data Engineering`
+
+---
+
+### 06 · VYAPARPULSE
+**AI financial intelligence for micro-businesses · SMART INDIA HACKATHON**
+
+A team-built financial intelligence and ledger platform for informal merchants. Voice-first transaction capture is converted into structured records, reconciled against the ledger, and combined with an XGBoost forecasting pipeline for dynamic 7-day revenue predictions and business insights.
+
+**Architecture:** React/Vite · Capacitor · Vosk + LLM voice agent · FastAPI · SQLAlchemy · SQLite · XGBoost · Pandas.
+
+→ **[Explore repository](https://github.com/T-Bone47/vyaparpulse-ai)**
+
+---
+
+## ENGINEERING EXPERIENCE
+
+### Independent Motorsport / eSports
+**Race & Strategy Engineer · Remote · 2025–Present**
+
+Maintain and extend proprietary lap-simulation and race-strategy software. Analyse lap performance, race scenarios, tyre strategy and pit windows, then translate simulation outputs into actionable race decisions.
+
+### IGNICT
+**AI/ML Intern · Andhra Pradesh · Aug 2026–Present**
+
+Python-based preprocessing, model development, evaluation and testing applied to live technical problems.
+
+---
+
+## AI / ML — AS AN ENGINEERING LAYER
+
+AI/ML is used where it creates engineering value rather than as decoration.
+
+| Problem | Approach |
+|---|---|
+| F1 race intelligence | Grounded analysis layer + deterministic validation |
+| Race engineering | LLM-assisted session reasoning + telemetry context |
+| Business forecasting | XGBoost + feature engineering + confidence handling |
+| Football intelligence | Large-scale player features + recommendation/ranking |
+| Engineering analysis | Regression, preprocessing, numerical analysis |
+
+**Principle:** deterministic systems establish the ground truth; ML/LLMs operate on top of validated context.
+
+---
+
+## TECHNICAL ARSENAL
+
+<details>
+<summary><strong>Languages & Core Engineering</strong></summary>
+
+`Python` `C++` `C#` `Java` `MATLAB` `SQL` `TypeScript` `JavaScript`
+
+</details>
+
+<details>
+<summary><strong>AI / Machine Learning</strong></summary>
+
+`XGBoost` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Vosk` `Regression` `Feature Engineering` `LLM Integration`
+
+</details>
+
+<details>
+<summary><strong>Backend & Data Systems</strong></summary>
+
+`FastAPI` `SQLAlchemy` `WebSockets` `PostgreSQL` `TimescaleDB` `SQLite` `Docker` `Pytest` `Git/GitHub` `Data Validation` `Deterministic Replay`
+
+</details>
+
+<details>
+<summary><strong>Motorsport Data & Telemetry</strong></summary>
+
+`FastF1` `OpenF1` `Jolpica F1 API` `F1 SignalR` `UDP Telemetry` `MoTeC i2 Pro` `Session Replay` `Lap/Sector Analysis` `Tyre Degradation` `Pit-Window Analysis` `Race Strategy`
+
+</details>
+
+<details>
+<summary><strong>Simulation & Interactive Systems</strong></summary>
+
+`Unity` `C#` `Vehicle Dynamics` `Lap Simulation` `Race Simulation` `F1 Aerodynamics Fundamentals` `CFD Fundamentals`
+
+</details>
+
+---
+
+## CURRENTLY BUILDING
+
+```text
+LIVE F1 INTELLIGENCE  →  deterministic analysis + AI layer hardening
+F1 LAP-TIME SIMULATOR  →  numerical validation + V1 completion
+F1 RACE MANAGER        →  Unity/C# strategy-management simulation
+EA FC INTELLIGENCE     →  large-scale player intelligence + recommendations
+IGNICT                 →  applied AI/ML engineering
+```
+
+---
+
+## ENGINEERING PRINCIPLES
+
+- **Measure before claiming.** Performance numbers come from measured implementations.
+- **Ground truth before intelligence.** AI should consume validated context, not invent it.
+- **Simulation must be explainable.** Every important model assumption should be inspectable.
+- **Real systems over demos.** Prefer replayable pipelines, tests, validation and failure handling.
+- **Engineering decisions are the output.** Software is the instrument; the decision is the objective.
+
+---
+
+## CONTACT
+
+Open to conversations around **motorsport software engineering, telemetry, simulation, race strategy, vehicle-performance software and applied AI/ML**.
+
+**Email:** [dreamteamoliver@gmail.com](mailto:dreamteamoliver@gmail.com)  
+**LinkedIn:** [linkedin.com/in/asish-oliver-56b454324](https://www.linkedin.com/in/asish-oliver-56b454324)  
+**Portfolio:** coming online with the full engineering case-study system.
+
+<p align="center">
+  <sub>Built around DATA → MODELS → SYSTEMS → SIMULATION → INTELLIGENCE → DECISIONS.</sub>
+</p>
