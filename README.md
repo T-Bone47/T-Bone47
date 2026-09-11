@@ -1,3 +1,4 @@
+<img width="1200" height="462" alt="asish-github-banner" src="https://github.com/user-attachments/assets/f16bab83-ca15-47e2-9a26-8a3acfc552aa" />
 <p align="center">
   <img src="./assets/asish-engineering-banner.png" alt="ASISH OLIVER M — Motorsport Software Engineer and AI/ML Engineer" width="100%" />
 </p>
