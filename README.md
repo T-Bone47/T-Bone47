@@ -126,24 +126,6 @@ DATA STREAM  ──►  MODELS  ──►  VALIDATION  ──►  ENGINEERING DE
   <tr><td><strong>Simulation</strong></td><td>MATLAB · NumPy · Vehicle Dynamics · Unity · C# · Numerical Validation</td></tr>
 </table>
 
----
-
-## ◈ Player Card — Asish Oliver M
-
-<p align="center">
-  <a href="./assets/asish-oliver-icon-card.webp">
-    <img src="./assets/asish-oliver-icon-card.webp" width="390" alt="Minecraft × football ICON fan-art card for Asish Oliver M (T-Bone47); the avatar wears a white Real Madrid-inspired jersey with OLIVER and number 1, with specialties in AI/ML, software development, sports data analytics, motorsport engineering, game development, and research." />
-  </a>
-</p>
-
-<p align="center">
-  <strong>AI / ML</strong> · <strong>Software Development</strong> · <strong>Sports Data Analytics</strong><br/>
-  <strong>Motorsport Engineering</strong> · <strong>Game Development</strong> · <strong>Research & Innovation</strong>
-</p>
-
-<p align="center"><sub>Minecraft × football fan-art concept · Card ratings are fictional game-style attributes, not measured engineering scores.</sub></p>
-
----
 
 ## ◈ GitHub Telemetry
 
