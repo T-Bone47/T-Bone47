@@ -131,10 +131,17 @@ DATA STREAM  ──►  MODELS  ──►  VALIDATION  ──►  ENGINEERING DE
 ## ◈ Player Card — Asish Oliver M
 
 <p align="center">
-  <a href="./assets/asish-oliver-icon-card.webp"><img src="./assets/asish-oliver-icon-card.webp" width="450" alt="Minecraft football ICON card for Asish Oliver M, featuring a Real Madrid-style jersey marked OLIVER 1 and specialties in AI/ML, software development, sports data analytics, motorsport engineering, game development, and research." /></a>
+  <a href="./assets/asish-oliver-icon-card.webp">
+    <img src="./assets/asish-oliver-icon-card.webp" width="390" alt="Minecraft × football ICON fan-art card for Asish Oliver M (T-Bone47); the avatar wears a white Real Madrid-inspired jersey with OLIVER and number 1, with specialties in AI/ML, software development, sports data analytics, motorsport engineering, game development, and research." />
+  </a>
 </p>
 
-<p align="center"><sub>Minecraft × football fan-art concept · Player-style ratings are illustrative, not measured engineering scores.</sub></p>
+<p align="center">
+  <strong>AI / ML</strong> · <strong>Software Development</strong> · <strong>Sports Data Analytics</strong><br/>
+  <strong>Motorsport Engineering</strong> · <strong>Game Development</strong> · <strong>Research & Innovation</strong>
+</p>
+
+<p align="center"><sub>Minecraft × football fan-art concept · Card ratings are fictional game-style attributes, not measured engineering scores.</sub></p>
 
 ---
 
