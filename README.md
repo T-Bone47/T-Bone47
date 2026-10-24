@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · t-bone47</sub></p>
 <h1>ASISH OLIVER M</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>AI ML Engineer or full-stack engineer</h2>
 <p>Aspiring Motorsport Software Engineer· Telemetry &amp; Simulation · AI/ML Engineering</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Trichy, Tamil Nadu, India · Building at vellore institue of technology,AP</sub></p>
