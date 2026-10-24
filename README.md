@@ -1,174 +1,115 @@
-<!--
-ASISH OLIVER M | Engineering portfolio
-Theme: charcoal, racing orange and electric blue.
-The core portfolio remains useful even when external widgets are unavailable.
--->
+<div align="center">
 
-<p align="center">
-  <img src="./assets/asish-github-banner.jpg" width="100%" alt="Asish Oliver M — Motorsport Software, Simulation and AI" />
-</p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · t-bone47</sub></p>
+<h1>ASISH OLIVER M</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Aspiring Motorsport Software Engineer· Telemetry &amp; Simulation · AI/ML Engineering</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Trichy, Tamil Nadu, India · Building at vellore institue of technology,AP</sub></p>
+<p><a href="https://github.com/t-bone47">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/90229676?u=a86925df51f94464d8a276f29373747879aa8d97&amp;v=4" width="180" alt="ASISH OLIVER M GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<h1 align="center">ASISH OLIVER M</h1>
+<h2>What teams can evaluate quickly</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=FF8700&center=true&vCenter=true&width=850&lines=Motorsport+Software+Engineer;AI%2FML+%7C+Simulation+%7C+Real-Time+Data;Building+intelligence+from+data" alt="Animated engineering introduction" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/T-Bone47"><img src="https://img.shields.io/badge/GitHub-T--Bone47-161B22?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/asish-oliver-56b454324"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:dreamteamoliver@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&color=0:FF8700,50:2F81F7,100:FF8700" width="100%" alt="" />
-</p>
-
-<h2 align="center">ENGINEERING INTELLIGENCE, NOT JUST INTERFACES</h2>
-
-<p align="center">
-  Building at the intersection of <strong>real data, validated models, simulation and AI</strong> to support better engineering decisions.
-</p>
-
-<p align="center">
-  <code>MOTORSPORT</code> · <code>TELEMETRY</code> · <code>AI / ML</code> · <code>SIMULATION</code> · <code>SPORTS INTELLIGENCE</code>
-</p>
-
----
-
-## ◈ Mission Control
-
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>01</strong><br/><sub>INGEST</sub><br/>Reliable data</td>
-    <td width="25%" align="center"><strong>02</strong><br/><sub>MODEL</sub><br/>Explainable logic</td>
-    <td width="25%" align="center"><strong>03</strong><br/><sub>VALIDATE</sub><br/>Tests and replay</td>
-    <td width="25%" align="center"><strong>04</strong><br/><sub>DECIDE</sub><br/>Useful intelligence</td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · TypeScript · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>20 repositories · 19 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>260 contributions · 41 active days</p></td>
+</tr>
 </table>
 
-```text
-DATA STREAM  ──►  MODELS  ──►  VALIDATION  ──►  ENGINEERING DECISIONS
-     ▲                                  │
-     └──────────── REPLAY + TESTS ◄─────┘
-```
+<p><sub>Aspiring Motorsport Software Engineer· Telemetry &amp; Simulation · AI/ML Engineering</sub></p>
 
-## ◈ Flagship Systems
+<h2>Proof at a glance</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏁 <a href="https://github.com/T-Bone47/live-f1-intelligence">LIVE F1 INTELLIGENCE</a></h3>
-      <strong>Real-time motorsport data platform</strong><br/>
-      Canonical event ingestion, provider abstraction, replayable pipelines, telemetry analysis and deterministic race-intelligence primitives.
-      <p><sub>Python · FastAPI · Telemetry · Replay · Data Engineering</sub></p>
-      <a href="https://github.com/T-Bone47/live-f1-intelligence">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎧 <a href="https://github.com/T-Bone47/RaceMind-AI">RACEMIND AI</a></h3>
-      <strong>AI-assisted race engineering</strong><br/>
-      A race-engineering platform exploring telemetry-aware strategy reasoning, driver coaching and session intelligence.
-      <p><sub>Python · FastAPI · PostgreSQL · WebSockets · AI</sub></p>
-      <a href="https://github.com/T-Bone47/RaceMind-AI">Explore repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📐 <a href="https://github.com/T-Bone47/f1-pro-simulator-">F1 LAP-TIME SIMULATOR</a></h3>
-      <strong>Numerical vehicle-performance modelling</strong><br/>
-      Track modelling, corner speed, grip constraints, aerodynamic effects and numerical validation.
-      <p><sub>MATLAB · Python · NumPy · Vehicle Dynamics</sub></p>
-      <a href="https://github.com/T-Bone47/f1-pro-simulator-">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚽ <a href="https://github.com/T-Bone47/EA_FC_INTELLIGENCE">EA FC INTELLIGENCE</a></h3>
-      <strong>Player data and recommendation intelligence</strong><br/>
-      Structured player data, feature engineering, ranking and recommendation workflows for EA FC.
-      <p><sub>Python · Pandas · NumPy · Scikit-learn</sub></p>
-      <a href="https://github.com/T-Bone47/EA_FC_INTELLIGENCE">Explore repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/T-Bone47/Football_OS">FOOTBALL INTELLIGENCE OS</a></h3>
-      Recruitment, player valuation, tactical analysis and football decision-support workflows.
-      <p><sub>Analytics · Data Engineering · AI Systems</sub></p>
-      <a href="https://github.com/T-Bone47/Football_OS">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/T-Bone47/vyaparpulse-ai">VYAPARPULSE AI</a></h3>
-      Financial intelligence for micro-businesses, structured transaction capture, ledger workflows and revenue forecasting.
-      <p><sub>React · FastAPI · SQLAlchemy · XGBoost</sub></p>
-      <a href="https://github.com/T-Bone47/vyaparpulse-ai">Explore repository →</a>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>20</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>19</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>260</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Followers</sub></td>
+</tr>
 </table>
 
 <p align="center">
-  <strong>ALSO IN THE WORKSHOP</strong><br/>
-  <a href="https://github.com/T-Bone47/race-manager">F1 Race Manager</a> ·
-  <a href="https://github.com/T-Bone47/IGNICT">IGNICT</a> ·
-  <a href="https://github.com/T-Bone47/asish-portfolio">Portfolio Website</a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="ASISH OLIVER M GitHub proof metrics" />
+</picture>
 </p>
 
----
+<h2>Selected work</h2>
 
-## ◈ Technical Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,matlab,js,ts,react,fastapi,postgres,docker,git,github,unity&perline=7" alt="Programming languages and tools" />
-</p>
-
-<table>
-  <tr><td><strong>AI / ML & Data</strong></td><td>Pandas · NumPy · Scikit-learn · XGBoost · Feature Engineering · Ranking & Recommendation · LLM Integration</td></tr>
-  <tr><td><strong>Backend & Systems</strong></td><td>FastAPI · PostgreSQL · SQLite · SQLAlchemy · WebSockets · Docker · Pytest · Replayable Pipelines</td></tr>
-  <tr><td><strong>Motorsport</strong></td><td>FastF1 · OpenF1 · UDP Telemetry · Lap/Sector Analysis · Tyre Degradation · Race Strategy</td></tr>
-  <tr><td><strong>Simulation</strong></td><td>MATLAB · NumPy · Vehicle Dynamics · Unity · C# · Numerical Validation</td></tr>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&repos=t-bone47%2Flive-f1-intelligence%2Ct-bone47%2FRaceMind-AI%2Ct-bone47%2Fvyaparpulse-ai%2Ct-bone47%2FFootball_OS&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&repos=t-bone47%2Flive-f1-intelligence%2Ct-bone47%2FRaceMind-AI%2Ct-bone47%2Fvyaparpulse-ai%2Ct-bone47%2FFootball_OS&v=recruiter-projects-1&mode=dark" width="100%" alt="ASISH OLIVER M selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/T-Bone47/live-f1-intelligence">live-f1-intelligence</a></h3>
+<p>Real-time F1 data intelligence platform — multi-provider ingestion, canonical event modelling, deterministic analysis engine, backtested on 1M+ real e</p>
+<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/T-Bone47/live-f1-intelligence">Read the repository →</a></p>
+</td>
+</tr>
 </table>
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/T-Bone47/RaceMind-AI">RaceMind-AI</a></h3><p>AI-assisted race-engineering software for sim racing — game-agnostic telemetry, strategy engine, driver coaching, LLM-driven AI engineer</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/T-Bone47/vyaparpulse-ai">vyaparpulse-ai</a></h3><p>Offline-first AI/ML intelligence engine for VyaparPulse — forecasting, anomaly detection, Business Health, Credit Intelligence and explainable busines</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/T-Bone47/Football_OS">Football_OS</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
-## ◈ GitHub Telemetry
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=T-Bone47&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=FF8700&icon_color=2F81F7" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Bone47&layout=compact&hide_border=true&theme=transparent&title_color=FF8700" alt="Most-used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=T-Bone47&hide_border=true&theme=transparent&ring=FF8700&fire=FF8700&currStreakLabel=2F81F7" alt="GitHub contribution streak" />
-</p>
-
-### Contribution animation
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/T-Bone47/T-Bone47/snake/github-snake-dark.svg" width="100%" alt="GitHub contribution snake — generated by GitHub Actions" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="ASISH OLIVER M technology stack" />
+</picture>
 </p>
 
-## ◈ Engineering Principles
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>54% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>27% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
 
-- **Measure before claiming.** Performance results should be reproducible.
-- **Validate before inference.** AI should be grounded in reliable context.
-- **Explain assumptions.** Models must be inspectable and testable.
-- **Design for failure.** Validation, tests and replay belong in the system.
-- **Optimize for decisions.** Software should help someone act with confidence.
-
-## ◈ Current Build Queue
-
-```text
-LIVE F1 INTELLIGENCE  -> telemetry pipelines + deterministic analysis
-F1 SIMULATION         -> vehicle performance + numerical validation
-EA FC INTELLIGENCE    -> player intelligence + recommendations
-FOOTBALL OS           -> recruitment + valuation + tactical analysis
-IGNICT                -> applicant / opportunity matching
-```
-
----
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF8700,50:161B22,100:2F81F7" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="ASISH OLIVER M contribution activity" />
+</picture>
 </p>
 
-<p align="center">
-  <strong>BUILD • MEASURE • VALIDATE • ITERATE</strong><br/>
-  <sub>DATA → MODELS → SYSTEMS → SIMULATION → INTELLIGENCE → DECISIONS</sub>
-</p>
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/t-bone47">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>ASISH OLIVER M · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
