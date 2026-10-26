@@ -3,113 +3,81 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · t-bone47</sub></p>
+<p><sub>ENGINEERING WORKSPACE · PORTFOLIO</sub></p>
 <h1>ASISH OLIVER M</h1>
-<h2>AI ML Engineer or full-stack engineer</h2>
-<p>Aspiring Motorsport Software Engineer· Telemetry &amp; Simulation · AI/ML Engineering</p>
+<h2>Motorsport Software · AI/ML · Full-Stack Engineering</h2>
+<p>Engineering software, simulation, telemetry, data platforms, and intelligent systems.</p>
 <p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Trichy, Tamil Nadu, India · Building at vellore institue of technology,AP</sub></p>
-<p><a href="https://github.com/t-bone47">GitHub</a></p>
+<p><sub>Trichy, Tamil Nadu, India · VIT-AP</sub></p>
+<p><a href="https://asish-os.vercel.app/"><strong>🚀 Launch ASISH OS Portfolio</strong></a> · <a href="https://github.com/T-Bone47">GitHub Repositories</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/90229676?u=a86925df51f94464d8a276f29373747879aa8d97&amp;v=4" width="180" alt="ASISH OLIVER M GitHub avatar" />
+<img src="https://avatars.githubusercontent.com/u/90229676?v=4" width="180" alt="ASISH OLIVER M GitHub avatar" />
 </td>
 </tr>
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+## 🚀 Explore ASISH OS
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · TypeScript · JavaScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>20 repositories · 19 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>260 contributions · 41 active days</p></td>
-</tr>
-</table>
+**[asish-os.vercel.app](https://asish-os.vercel.app/)** is my interactive engineering workspace and portfolio.
 
-<p><sub>Aspiring Motorsport Software Engineer· Telemetry &amp; Simulation · AI/ML Engineering</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>20</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>19</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>260</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>4</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+Explore the project catalogue, engineering profile, systems map, read-only portfolio terminal, recorded evidence viewer, and workspace settings in a desktop-inspired interface. The traditional portfolio routes remain available from the site.
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="ASISH OLIVER M GitHub proof metrics" />
-</picture>
+<a href="https://asish-os.vercel.app/"><img src="https://img.shields.io/badge/OPEN-ASISH_OS-ff8a1c?style=for-the-badge&logo=vercel&logoColor=white" alt="Open ASISH OS portfolio" /></a>
 </p>
 
-<h2>Selected work</h2>
+## What teams can evaluate quickly
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&repos=t-bone47%2Flive-f1-intelligence%2Ct-bone47%2FRaceMind-AI%2Ct-bone47%2Fvyaparpulse-ai%2Ct-bone47%2FFootball_OS&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&repos=t-bone47%2Flive-f1-intelligence%2Ct-bone47%2FRaceMind-AI%2Ct-bone47%2Fvyaparpulse-ai%2Ct-bone47%2FFootball_OS&v=recruiter-projects-1&mode=dark" width="100%" alt="ASISH OLIVER M selected projects" />
-</picture>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Motorsport software · Python · TypeScript · AI/ML · Full-stack engineering</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>Open-source projects, architecture, code, and implementation details in public repositories.</p></td>
+<td width="33%" valign="top"><h3>Engineering focus</h3><p>Telemetry pipelines, simulation, intelligent systems, data platforms, and developer tools.</p></td>
+</tr>
+</table>
+
+## Selected work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/T-Bone47/live-f1-intelligence">Live F1 Intelligence</a></h3>
+<p>Real-time F1 data intelligence platform with multi-provider ingestion, canonical event modelling, and deterministic analysis.</p>
+<p><a href="https://asish-os.vercel.app/">Explore in ASISH OS →</a></p>
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/T-Bone47/live-f1-intelligence">live-f1-intelligence</a></h3>
-<p>Real-time F1 data intelligence platform — multi-provider ingestion, canonical event modelling, deterministic analysis engine, backtested on 1M+ real e</p>
-<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/T-Bone47/live-f1-intelligence">Read the repository →</a></p>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/T-Bone47/RaceMind-AI">RaceMind AI</a></h3>
+<p>AI-assisted race-engineering software for sim racing, including telemetry, strategy, driver coaching, and an AI engineer.</p>
+<p><a href="https://asish-os.vercel.app/">Explore in ASISH OS →</a></p>
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/T-Bone47/RaceMind-AI">RaceMind-AI</a></h3><p>AI-assisted race-engineering software for sim racing — game-agnostic telemetry, strategy engine, driver coaching, LLM-driven AI engineer</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/T-Bone47/vyaparpulse-ai">vyaparpulse-ai</a></h3><p>Offline-first AI/ML intelligence engine for VyaparPulse — forecasting, anomaly detection, Business Health, Credit Intelligence and explainable busines</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/T-Bone47/Football_OS">Football_OS</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/T-Bone47/vyaparpulse-ai">VyaparPulse AI</a></h3>
+<p>Offline-first AI/ML intelligence platform focused on forecasting, anomaly detection, and explainable business insights.</p>
+<p><a href="https://asish-os.vercel.app/">Explore in ASISH OS →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/T-Bone47/Football_OS">Football OS</a></h3>
+<p>Football data and intelligence project.</p>
+<p><a href="https://asish-os.vercel.app/">Explore in ASISH OS →</a></p>
+</td>
 </tr>
 </table>
 
-<h2>Technical toolkit</h2>
+## Technical toolkit
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="ASISH OLIVER M technology stack" />
-</picture>
-</p>
+Python · TypeScript · JavaScript · C++ · FastAPI · React · Next.js · PostgreSQL · AI/ML · Telemetry and simulation
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>54% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>27% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>8% of public code</sub></td>
-<td width="20%" align="center"><strong>C++</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
-</tr>
-</table>
+## Get in touch
 
-<h2>Consistency signal</h2>
+Interested in opportunities involving motorsport software, performance engineering tools, AI/ML systems, and software engineering.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=t-bone47&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90229676%3Fu%3Da86925df51f94464d8a276f29373747879aa8d97%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="ASISH OLIVER M contribution activity" />
-</picture>
-</p>
+**Portfolio:** https://asish-os.vercel.app/  
+**GitHub:** https://github.com/T-Bone47
 
-<hr />
+---
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/t-bone47">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>ASISH OLIVER M · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<sub>ASISH OLIVER M · Engineering portfolio and public project work</sub>
