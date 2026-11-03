@@ -1,5 +1,6 @@
 <!-- ASISH OS / PERSONAL ENGINEERING INTERFACE -->
 <div align="center">
+<img src="assets/animation/terminal-boot.svg" width="100%" alt="Animated ASISH OS terminal boot sequence"/>
 <img src="assets/asish-engineering-banner.svg" width="100%" alt="ASISH OLIVER M — engineering intelligence, AI, motorsport and simulation"/>
 <a href="https://asish-os.vercel.app/"><img src="https://img.shields.io/badge/ENTER_ASISH_OS-ENGINEERING_WORKSPACE-F59E0B?style=for-the-badge&logo=vercel&logoColor=111111" alt="Launch ASISH OS"/></a>
 <a href="https://github.com/T-Bone47?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_SOURCE-OPEN_REPOSITORIES-282D35?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
@@ -9,6 +10,8 @@
 
 AI / ML · Motorsport technology · Simulation · Software engineering
 </div>
+
+<div align="center"><img src="assets/animation/neofetch-terminal.svg" width="100%" alt="Terminal-style ASISH OS identity card"/></div>
 
 ---
 <div align="center"><img src="assets/diagrams/engineering-operating-system.svg" width="100%" alt="Engineering system map from signals to outcomes"/></div>
@@ -44,9 +47,7 @@ These figures are repository-reported measurements from one recorded 2026 Dutch 
 
 ## 04 / TECHNOLOGY
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,fastapi,nodejs,react,nextjs,postgres,docker,firebase,supabase,tensorflow,git,linux&perline=8" alt="Technology stack"/>
-</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,fastapi,nodejs,react,nextjs,postgres,docker,firebase,supabase,tensorflow,git,linux&perline=8" alt="Technology stack"/></div>
 
 **Engineering practice** — API design · event-driven systems · telemetry processing · numerical modelling · ML pipelines · data visualisation · test automation · observability.
 
@@ -58,6 +59,24 @@ These figures are repository-reported measurements from one recorded 2026 Dutch 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Bone47&bg_color=0D1117&color=D1D5DB&line=F59E0B&point=FBBF24&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-Bone47/T-Bone47/snake/github-snake-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T-Bone47/T-Bone47/snake/github-snake.svg"/><img src="https://raw.githubusercontent.com/T-Bone47/T-Bone47/snake/github-snake.svg" width="100%" alt="Animated contribution graph"/></picture>
 </div>
+
+<details>
+<summary><strong>▸ ASCII LAB — terminal graphics & experiments</strong></summary>
+<div align="center">
+<img src="assets/animation/ascii-torus.svg" width="100%" alt="Animated ASCII torus experiment"/>
+</div>
+
+```text
+      ___    ____ ___ ____  _   _
+     / _ \  / ___|_ _/ ___|| | | |
+    | | | | \___ \| |\___ \| |_| |
+    | |_| |  ___) | | ___) |  _  |
+     \___/  |____/___|____/|_| |_|
+
+    [ A S I S H   O S ]
+    observe -> model -> engineer -> validate -> ship
+```
+</details>
 
 <sub>Third-party activity cards may be delayed or temporarily unavailable. They are decorative indicators, not engineering evidence.</sub>
 
