@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-labelledby="title desc">
 <title id="title">RACEMIND AI — ASCII engineering module</title><desc id="desc">Game-agnostic telemetry, race strategy and AI engineer. Backend implemented; clients pending.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07090C"/><stop offset=".52" stop-color="#171B20"/><stop offset="1" stop-color="#0A0C0F"/></linearGradient><pattern id="scan" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 4.5H5" stroke="#CBD5E1" stroke-opacity=".035"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07090C"/><stop offset=".52" stop-color="#171B20"/><stop offset="1" stop-color="#0A0C0F"/></linearGradient><pattern id="scan" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 4.5H5" stroke="#CBD5E1" stroke-opacity=".035"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><clipPath id="motionViewport"><rect x="0" y="-5" width="265" height="116"/></clipPath></defs>
 <rect x="1" y="1" width="1198" height="284" rx="14" fill="url(#bg)" stroke="#F59E0B" stroke-opacity=".65"/>
 <rect x="2" y="2" width="1196" height="282" rx="13" fill="url(#scan)"/>
 <path d="M18 54H1182M18 252H1182" stroke="#F59E0B" stroke-opacity=".35"/>
@@ -12,10 +12,10 @@
 <text x="30" y="220" fill="#9CA3AF" font-family="monospace" font-size="11">STACK :: FASTAPI / WEBSOCKETS / SQLALCHEMY</text>
 <text x="30" y="243" fill="#FBBF24" font-family="monospace" font-size="11">└─ STATE :: BACKEND IMPLEMENTED</text>
 <text x="830" y="82" fill="#F59E0B" font-family="monospace" font-size="11">ASCII / SIGNAL FIELD</text>
-<g transform="translate(835 100)" fill="#FBBF24" font-family="monospace" font-size="13" filter="url(#glow)">
-<path d="M-5 107 C30 87 58 125 91 102 S150 82 184 105 S222 120 260 94" fill="none" stroke="#FBBF24" stroke-width="1.8" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" values="0;-40" dur="2s" repeatCount="indefinite"/></path><circle cx="0" cy="107" r="4" fill="#FBBF24"><animate attributeName="cx" values="0;250;0" dur="4s" repeatCount="indefinite"/></circle><circle cx="0" cy="107" r="10" fill="none" stroke="#F59E0B"><animate attributeName="cx" values="0;250;0" dur="4s" repeatCount="indefinite"/><animate attributeName="r" values="5;12;5" dur="4s" repeatCount="indefinite"/></circle>
+<g clip-path="url(#motionViewport)"><g transform="translate(835 100)" fill="#FBBF24" font-family="monospace" font-size="13" filter="url(#glow)">
+</circle><animate attributeName="r" values="5;12;5" dur="4s" repeatCount="indefinite"/></circle>
 <text x="0" y="0">     .----.       </text><text x="0" y="19">  __/ RACE \__    </text><text x="0" y="38"> /  _  __  _  \   </text><text x="0" y="57">|  (_) || (_)  |  </text><text x="0" y="76"> \____STRAT___/   </text><text x="0" y="95">   o        o</text>
-</g>
+<path d="M0 107C30 85 62 128 94 104S155 83 188 105S228 124 265 96" fill="none" stroke="#FBBF24" stroke-width="1.8" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" values="0;-40" dur="2s" repeatCount="indefinite"/></path><circle cy="106" r="4" fill="#FBBF24"><animate attributeName="cx" values="0;250;0" dur="4s" repeatCount="indefinite"/></circle></g></g>
 <text x="830" y="224" fill="#9CA3AF" font-family="monospace" font-size="10">RACE LINE // STRATEGY // RADIO</text>
 <text x="1170" y="269" fill="#FBBF24" font-family="monospace" font-size="10" text-anchor="end">OPEN SOURCE ↗</text>
 </svg>
