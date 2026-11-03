@@ -6,9 +6,15 @@
 <path d="M18 54H1182M18 252H1182" stroke="#F59E0B" stroke-opacity=".35"/>
 <text x="28" y="34" fill="#FBBF24" font-family="monospace" font-size="12">╔═ AOS::MODULE_06 ═ ASISH OS ═════════════════════════════════════════════════════╗</text>
 <text x="30" y="83" fill="#F59E0B" font-family="monospace" font-size="12">┌─ PROJECT / 06 ────────────────────┐</text>
-<text x="30" y="121" fill="#F9FAFB" font-family="monospace" font-size="29" font-weight="700">ASISH OS</text>
+<clipPath id="textViewport"><rect x="24" y="92" width="690" height="115"/></clipPath>
+<g clip-path="url(#textViewport)">
+<rect x="28" y="94" width="0" height="37" fill="#F59E0B" fill-opacity=".09"><animate attributeName="width" values="0;440;440;0" keyTimes="0;.4;.8;1" dur="6s" repeatCount="indefinite"/></rect>
+<text x="30" y="121" fill="#F9FAFB" font-family="monospace" font-size="29" font-weight="700">ASISH OS<tspan fill="#FBBF24"> ▌<animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></tspan></text>
 <text x="30" y="149" fill="#FBBF24" font-family="monospace" font-size="13">INTERACTIVE ENGINEERING WORKSPACE</text>
 <text x="30" y="184" fill="#D1D5DB" font-family="monospace" font-size="13">A portfolio interface for project discovery, systems maps and engineering evidence.</text>
+<path d="M30 198H490" stroke="#FBBF24" stroke-width="1.5" stroke-dasharray="0 460"><animate attributeName="stroke-dasharray" values="0 460;460 0;0 460" dur="5s" repeatCount="indefinite"/></path>
+<text x="500" y="243" fill="#34D399" font-family="monospace" font-size="11">$ READY<tspan fill="#FBBF24"> ▌<animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></tspan></text>
+</g>
 <text x="30" y="220" fill="#9CA3AF" font-family="monospace" font-size="11">STACK :: NEXT.JS / REACT / TYPESCRIPT</text>
 <text x="30" y="243" fill="#FBBF24" font-family="monospace" font-size="11">└─ STATE :: PORTFOLIO</text>
 <text x="830" y="82" fill="#F59E0B" font-family="monospace" font-size="11">ASCII / SIGNAL FIELD</text>
