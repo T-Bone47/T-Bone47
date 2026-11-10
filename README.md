@@ -26,7 +26,12 @@ My interest is in the engineering underneath the interface: understanding a comp
 
 **Current focus** — real-time engineering intelligence, AI-assisted workflows, telemetry systems and simulation.
 
-<div align="center"><img src="assets/diagrams/engineering-domains.svg" width="100%" alt="Engineering capability matrix"/></div>
+| Engineering domain | What I build |
+|---|---|
+| **AI / ML & Intelligence** | Machine learning pipelines, retrieval, forecasting, intelligent workflows |
+| **Motorsport & Simulation** | Race telemetry, strategy modelling, vehicle performance simulations |
+| **Systems & Backend** | APIs, event processing, databases, integration and automated testing |
+| **Product Engineering** | Full-stack applications, engineering interfaces and developer tools |
 
 ## 02 / PROJECT REGISTRY
 
