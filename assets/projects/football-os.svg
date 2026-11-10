@@ -19,7 +19,7 @@
 <text x="30" y="243" fill="#FBBF24" font-family="monospace" font-size="11">└─ STATE :: PRE-PRODUCTION</text>
 <text x="830" y="82" fill="#F59E0B" font-family="monospace" font-size="11">ASCII / SIGNAL FIELD</text>
 <g clip-path="url(#motionViewport)"><g transform="translate(835 100)" fill="#FBBF24" font-family="monospace" font-size="13" filter="url(#glow)">
-</circle></circle><path d="M126 3V91M82 47H170" stroke="#F59E0B" stroke-opacity=".6"/>
+<path d="M126 3V91M82 47H170" stroke="#F59E0B" stroke-opacity=".6"/>
 <text x="0" y="0">  .----------------.</text><text x="0" y="19"> /  o      |      o  \</text><text x="0" y="38">|--------- + ---------|</text><text x="0" y="57"> \  o      |      o  /</text><text x="0" y="76">  '----------------'</text><text x="0" y="95">     [ XI / DATA ]</text>
 <rect x="-4" y="-4" width="260" height="110" fill="none" stroke="#F59E0B" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" values="0;44" dur="2s" repeatCount="indefinite"/></rect><circle cx="126" cy="47" r="38" fill="none" stroke="#FBBF24"><animate attributeName="r" values="30;50;30" dur="3s" repeatCount="indefinite"/></circle></g></g>
 <text x="830" y="224" fill="#9CA3AF" font-family="monospace" font-size="10">PITCH GRID // SCOUT // MODEL</text>
