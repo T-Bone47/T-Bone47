@@ -1,103 +1,118 @@
-<!-- ASISH OS // TERMINAL INTERFACE -->
+<!-- ASISH ENGINEERING PROFILE / SIGNAL-FIRST EDITION -->
 <div align="center">
-<img src="assets/animation/terminal-boot.svg" width="100%" alt="ASISH OS terminal boot animation"/>
-<img src="assets/asish-engineering-banner.svg" width="100%" alt="ASISH OLIVER M — engineering intelligence, AI, motorsport and simulation"/>
-<a href="https://asish-os.vercel.app/"><img src="https://img.shields.io/badge/ENTER_ASISH_OS-ENGINEERING_WORKSPACE-F59E0B?style=for-the-badge&logo=vercel&logoColor=111111" alt="Launch ASISH OS"/></a>
-<a href="https://github.com/T-Bone47?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_SOURCE-OPEN_REPOSITORIES-282D35?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
-<a href="https://www.linkedin.com/in/asish-oliver-56b454324"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-282D35?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-
-**I build systems that turn complex data and ideas into working engineering tools.**
-
-AI / ML · Motorsport technology · Simulation · Software engineering
+  <img src="assets/asish-engineering-banner.svg" width="100%" alt="Asish Oliver M — software, AI, motorsport and simulation engineering"/>
+  <p><strong>Building systems that turn complex data into practical engineering tools.</strong></p>
+  <p>AI/ML · Motorsport software · Real-time data · Simulation · Full-stack engineering</p>
+  <p>
+    <a href="https://asish-os.vercel.app/">ASISH OS — Engineering Workspace</a> ·
+    <a href="https://github.com/T-Bone47/Minecraft-folio">Minecraft Engineering Frontier</a> ·
+    <a href="https://www.linkedin.com/in/asish-oliver-56b454324">LinkedIn</a> ·
+    <a href="mailto:dreamteamoliver@gmail.com">Contact</a>
+  </p>
 </div>
-
-<div align="center"><img src="assets/animation/neofetch-terminal.svg" width="100%" alt="ASISH OS neofetch terminal identity card"/></div>
 
 ---
 
-## 00 / SYSTEM MAP
-<div align="center"><img src="assets/diagrams/engineering-operating-system.svg" width="100%" alt="Engineering system map from signals to outcomes"/></div>
+## 01 / ENGINEER PROFILE
 
-## 01 / OPERATOR PROFILE
+I'm **Asish Oliver M**, an **Integrated M.Tech Computer Science and Engineering student at VIT-AP**. I work at the intersection of **motorsport software, real-time systems, applied machine learning and full-stack products**.
 
-I'm **Asish Oliver M**, an Integrated M.Tech Computer Science student at **VIT-AP**. I work across AI/ML, backend systems, real-time data, motorsport software, simulation and full-stack product engineering.
+I enjoy taking a problem from architecture and data modelling through implementation, testing and a usable interface. My work spans telemetry ingestion, race analysis, backend APIs, numerical simulation and AI-assisted applications.
 
-My interest is in the engineering underneath the interface: understanding a complex problem, modelling it, building the system, measuring its behaviour and making the result reliable. I care about clear architecture, data integrity, reproducible tests and honest project status.
-
-**Current focus** — real-time engineering intelligence, AI-assisted workflows, telemetry systems and simulation.
-
-| Engineering domain | What I build |
+| Focus area | Engineering work |
 |---|---|
-| **AI / ML & Intelligence** | Machine learning pipelines, retrieval, forecasting, intelligent workflows |
-| **Motorsport & Simulation** | Race telemetry, strategy modelling, vehicle performance simulations |
-| **Systems & Backend** | APIs, event processing, databases, integration and automated testing |
-| **Product Engineering** | Full-stack applications, engineering interfaces and developer tools |
+| **Motorsport + simulation** | Race telemetry, strategy analysis, lap-time and performance modelling |
+| **Data + backend systems** | Event ingestion, APIs, databases, streaming, reproducible tests |
+| **AI + machine learning** | Forecasting, retrieval, model evaluation and intelligent workflows |
+| **Product + creative engineering** | Full-stack tools, visualisations and interactive 3D experiences |
 
-## 02 / PROJECT REGISTRY
+## 02 / FEATURED ENGINEERING WORK
 
-<sub>SELECT A MODULE TO OPEN ITS SOURCE REPOSITORY · SIX SYSTEMS / SIX ENGINEERING DOMAINS</sub>
+Real repositories and technical work, presented by what each system demonstrates. Project maturity and measurable results belong in the linked repositories, not in unsupported profile badges.
 
-<div align="center">
-<a href="https://github.com/T-Bone47/live-f1-intelligence"><img src="assets/projects/live-f1-intelligence.svg" width="100%" alt="Live F1 Intelligence ASCII terminal module"/></a>
-<a href="https://github.com/T-Bone47/RaceMind-AI"><img src="assets/projects/racemind-ai.svg" width="100%" alt="RaceMind AI ASCII terminal module"/></a>
-<a href="https://github.com/T-Bone47/Sentinel-AI"><img src="assets/projects/sentinel-ai.svg" width="100%" alt="Sentinel AI ASCII terminal module"/></a>
-<a href="https://github.com/T-Bone47/vyaparpulse-ai"><img src="assets/projects/vyaparpulse-ai.svg" width="100%" alt="VyaparPulse AI ASCII terminal module"/></a>
-<a href="https://github.com/T-Bone47/Football_OS"><img src="assets/projects/football-os.svg" width="100%" alt="Football Intelligence OS ASCII terminal module"/></a>
-<a href="https://asish-os.vercel.app/"><img src="assets/projects/asish-os.svg" width="100%" alt="ASISH OS portfolio ASCII terminal module"/></a>
-</div>
-
-## 03 / PERFORMANCE LOG
-
-<div align="center"><img src="assets/diagrams/live-f1-validation.svg" width="100%" alt="Live F1 recorded-session validation metrics"/></div>
-
-These figures are repository-reported measurements from one recorded 2026 Dutch GP session—not independent benchmarks or universal production guarantees. [Inspect implementation and validation notes](https://github.com/T-Bone47/live-f1-intelligence).
-
-## 04 / TOOLCHAIN
-
-<div align="center"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,fastapi,nodejs,react,nextjs,postgres,docker,firebase,supabase,tensorflow,git,linux&perline=8" alt="Technology stack"/></div>
-
-**Engineering practice** — API design · event-driven systems · telemetry processing · numerical modelling · ML pipelines · data visualisation · test automation · observability.
-
-## 05 / LIVE SIGNAL
-
-<div align="center">
-
-<img src="assets/animation/live-signal-console.svg" width="100%" alt="Self-hosted ASISH OS terminal signal dashboard"/>
-
-<img src="assets/animation/contribution-heatmap.svg" width="100%" alt="Decorative ASCII-inspired contribution heatmap"/>
-
-<img src="https://raw.githubusercontent.com/T-Bone47/T-Bone47/snake/github-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
-
-<sub>The signal console and heatmap are locally maintained visual elements. The contribution snake is generated by this repository's GitHub Actions workflow. No third-party statistics service is required.</sub>
+| Project | What it demonstrates | Domain |
+|---|---|---|
+| **[Live F1 Intelligence](https://github.com/T-Bone47/live-f1-intelligence)** | Race data ingestion, canonical events, session recording/replay and telemetry analysis | Motorsport · Data |
+| **[RaceMind AI](https://github.com/T-Bone47/RaceMind-AI)** | Game telemetry processing, race-engineering intelligence and strategy tooling | Motorsport · Software |
+| **[VyaparPulse AI](https://github.com/T-Bone47/vyaparpulse-ai)** | Voice-first merchant workflows, reconciliation and ML-assisted forecasting | Applied AI · Product |
+| **[Sentinel AI](https://github.com/T-Bone47/Sentinel-AI)** | Governance, risk and compliance intelligence with explainable decisions | AI · Security |
+| **[Football Intelligence OS](https://github.com/T-Bone47/Football_OS)** | Football intelligence and sports-data experimentation | Sports · Analytics |
 
 <details>
-<summary><strong>▸ ASCII LAB // TERMINAL GRAPHICS</strong></summary>
-<div align="center">
-<img src="assets/animation/ascii-torus.svg" width="100%" alt="Animated ASCII torus"/>
-</div>
-
-```text
-   ╔══════════════════════════════════════════════════════════╗
-   ║  ASISH OS :: ENGINEERING INTELLIGENCE                    ║
-   ╠══════════════════════════════════════════════════════════╣
-   ║  [01] OBSERVE     [02] MODEL     [03] ENGINEER            ║
-   ║  [04] VALIDATE    [05] SHIP                             ║
-   ╚══════════════════════════════════════════════════════════╝
-```
+<summary><strong>▸ EXPAND / ORIGINAL ASCII PROJECT GALLERY</strong> — animated visual modules for the featured systems</summary>
+<p align="center">
+<a href="https://github.com/T-Bone47/live-f1-intelligence"><img src="assets/projects/live-f1-intelligence.svg" width="100%" alt="Live F1 Intelligence terminal project card"/></a>
+<a href="https://github.com/T-Bone47/RaceMind-AI"><img src="assets/projects/racemind-ai.svg" width="100%" alt="RaceMind AI terminal project card"/></a>
+<a href="https://github.com/T-Bone47/vyaparpulse-ai"><img src="assets/projects/vyaparpulse-ai.svg" width="100%" alt="VyaparPulse AI terminal project card"/></a>
+<a href="https://github.com/T-Bone47/Sentinel-AI"><img src="assets/projects/sentinel-ai.svg" width="100%" alt="Sentinel AI terminal project card"/></a>
+<a href="https://github.com/T-Bone47/Football_OS"><img src="assets/projects/football-os.svg" width="100%" alt="Football Intelligence OS terminal project card"/></a>
+</p>
 </details>
 
-## 06 / ADDITIONAL MODULES
+## 03 / TWO WAYS TO EXPLORE MY WORK
 
-[IGNICT](https://github.com/T-Bone47/IGNICT) · [DeliveryHub](https://github.com/T-Bone47/DeliveryHub) · [Race Manager](https://github.com/T-Bone47/race-manager) · [RACEWISE](https://github.com/T-Bone47/RACEWISE) · [F1 Pro Simulator](https://github.com/T-Bone47/f1-pro-simulator-) · [EA FC Intelligence](https://github.com/T-Bone47/EA_FC_INTELLIGENCE) · [PES06Remastered](https://github.com/T-Bone47/PES06Remastered) · [Minecraft-folio](https://github.com/T-Bone47/Minecraft-folio)
+| **ASISH OS — Professional engineering workspace** | **Engineering Frontier — Playable voxel portfolio** |
+|---|---|
+| Desktop-inspired technical portfolio with project case studies and engineering interfaces. | Minecraft-inspired 3D engineering campus with motorsport and software exhibits. |
+| **[Open the live workspace](https://asish-os.vercel.app/)** | **[Explore the source repository](https://github.com/T-Bone47/Minecraft-folio)** |
 
-Outside software, I'm interested in Formula 1, vehicle performance, racing simulations, football analytics and game development.
+These are **two separate portfolio projects** with different design identities. The Minecraft-folio link currently points to its repository; it is not presented as a verified live deployment.
+
+## 04 / ENGINEERING TOOLCHAIN
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · Java · C++ · SQL |
+| **Frontend + 3D** | React · Next.js · Three.js · React Three Fiber |
+| **Backend + data** | FastAPI · Node.js · PostgreSQL · TimescaleDB · WebSockets |
+| **ML + numerical** | scikit-learn · XGBoost · NumPy · Pandas |
+| **Workflow** | Git · Docker · automated tests · reproducible experiments |
+
+**Engineering habits:** observe → model → implement → validate → improve. I prefer verifiable results and clear technical trade-offs over inflated metrics.
+
+<details>
+<summary><strong>▸ EXPAND / ENGINEERING ARCHITECTURE & VALIDATION NOTES</strong></summary>
+<p align="center"><img src="assets/diagrams/engineering-operating-system.svg" width="100%" alt="Engineering workflow from data signal to validated outcomes"/></p>
+<p align="center"><img src="assets/diagrams/live-f1-validation.svg" width="100%" alt="Live F1 Intelligence recorded-session validation overview"/></p>
+The Live F1 figures are repository-reported measurements from a recorded test scenario, not independently verified production guarantees. [Inspect the project and validation notes](https://github.com/T-Bone47/live-f1-intelligence).
+</details>
+
+## 05 / MORE PROJECTS
+
+[IGNICT](https://github.com/T-Bone47/IGNICT) ·
+[DeliveryHub](https://github.com/T-Bone47/DeliveryHub) ·
+[Race Manager](https://github.com/T-Bone47/race-manager) ·
+[RACEWISE](https://github.com/T-Bone47/RACEWISE) ·
+[F1 Pro Simulator](https://github.com/T-Bone47/f1-pro-simulator-) ·
+[EA FC Intelligence](https://github.com/T-Bone47/EA_FC_INTELLIGENCE) ·
+[PES06Remastered](https://github.com/T-Bone47/PES06Remastered)
+
+Explore the [complete repository list](https://github.com/T-Bone47?tab=repositories) for source and current project status.
+
+## 06 / SIGNAL LAB
+
+<details>
+<summary><strong>▸ EXPAND / ASISH OS TERMINAL ANIMATIONS</strong> — original ASCII-inspired visuals</summary>
+<p align="center">
+<img src="assets/animation/terminal-boot.svg" width="100%" alt="ASISH OS startup terminal animation"/>
+<img src="assets/animation/neofetch-terminal.svg" width="100%" alt="ASISH OS technical profile terminal"/>
+<img src="assets/animation/live-signal-console.svg" width="100%" alt="Decorative local telemetry signal animation"/>
+<img src="assets/animation/contribution-heatmap.svg" width="100%" alt="Decorative contribution-inspired heatmap, not actual GitHub activity"/>
+<img src="https://raw.githubusercontent.com/T-Bone47/T-Bone47/snake/github-snake.svg" width="100%" alt="GitHub contribution snake, generated by Actions"/>
+<img src="assets/animation/ascii-torus.svg" width="100%" alt="Animated ASCII torus"/>
+</p>
+The console and heatmap are **illustrations**, not live activity or performance measurements. The contribution snake is generated by this repository's GitHub Actions workflow.
+</details>
 
 ---
+
+## 07 / CONNECT
+
+Interested in **motorsport engineering, AI/ML, backend systems, developer tools and technically ambitious collaborations**.
+
+**[LinkedIn](https://www.linkedin.com/in/asish-oliver-56b454324)** · **[Email](mailto:dreamteamoliver@gmail.com)** · **[ASISH OS](https://asish-os.vercel.app/)** · **[GitHub repositories](https://github.com/T-Bone47?tab=repositories)**
+
 <div align="center">
-<img src="assets/asish-engineering-footer.svg" width="100%" alt="ASISH OS — observe, model, engineer, validate, ship"/>
-<a href="https://asish-os.vercel.app/"><img src="https://img.shields.io/badge/ENTER_THE_WORKSPACE-ASISH_OS-F59E0B?style=for-the-badge&logo=vercel&logoColor=111111" alt="Enter ASISH OS"/></a>
-**Open to conversations around motorsport software, performance engineering, AI/ML and ambitious software systems.**
-<sub>ASISH OLIVER M · VIT-AP · ENGINEERING SYSTEMS / 2026</sub>
+<img src="assets/asish-engineering-footer.svg" width="100%" alt="ASISH engineering signature — observe, model, engineer, validate, ship"/>
+<sub>ASISH OLIVER M · VIT-AP · ENGINEERING SYSTEMS</sub>
 </div>
