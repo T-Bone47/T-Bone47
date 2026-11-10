@@ -1,0 +1,33 @@
+name: Validate profile assets
+
+on:
+  push:
+    branches:
+      - main
+      - "feat/**"
+      - "hotfix/**"
+    paths:
+      - README.md
+      - "assets/**"
+      - scripts/validate_profile.py
+      - .github/workflows/profile-assets.yml
+  pull_request:
+    paths:
+      - README.md
+      - "assets/**"
+      - scripts/validate_profile.py
+      - .github/workflows/profile-assets.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validate local image paths and SVG XML
+        run: python3 scripts/validate_profile.py
