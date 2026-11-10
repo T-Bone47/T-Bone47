@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-labelledby="title desc">
 <title id="title">RACEMIND AI — ASCII engineering module</title><desc id="desc">Game-agnostic telemetry, race strategy and AI engineer. Backend implemented; clients pending.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07090C"/><stop offset=".52" stop-color="#171B20"/><stop offset="1" stop-color="#0A0C0F"/></linearGradient><pattern id="scan" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 4.5H5" stroke="#CBD5E1" stroke-opacity=".035"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><clipPath id="motionViewport"><rect x="0" y="-5" width="265" height="116"/></clipPath></defs>
-<rect x="1" y="1" width="1198" height="284" rx="14" fill="url(#bg)" stroke="#F59E0B" stroke-opacity=".65"/>
+<rect x="1" y="1" width="1198" height="284" rx="14" fill="url(#bg)" stroke="#E11D48" stroke-opacity=".65"/>
 <rect x="2" y="2" width="1196" height="282" rx="13" fill="url(#scan)"/>
-<path d="M18 54H1182M18 252H1182" stroke="#F59E0B" stroke-opacity=".35"/>
-<text x="28" y="34" fill="#FBBF24" font-family="monospace" font-size="12">╔═ AOS::MODULE_02 ═ RACEMIND AI ═════════════════════════════════════════════════════╗</text>
-<text x="30" y="83" fill="#F59E0B" font-family="monospace" font-size="12">┌─ PROJECT / 02 ────────────────────┐</text>
+<path d="M18 54H1182M18 252H1182" stroke="#E11D48" stroke-opacity=".35"/>
+<text x="28" y="34" fill="#FDA4AF" font-family="monospace" font-size="12">╔═ AOS::MODULE_02 ═ RACEMIND AI ═════════════════════════════════════════════════════╗</text>
+<text x="30" y="83" fill="#E11D48" font-family="monospace" font-size="12">┌─ PROJECT / 02 ────────────────────┐</text>
 <clipPath id="textViewport"><rect x="24" y="92" width="690" height="115"/></clipPath>
 <g clip-path="url(#textViewport)">
-<rect x="28" y="92" width="0" height="37" fill="#F59E0B" fill-opacity=".09"><animate attributeName="width" values="0;520;520;0" keyTimes="0;.35;.8;1" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="28" y="92" width="0" height="37" fill="#E11D48" fill-opacity=".09"><animate attributeName="width" values="0;520;520;0" keyTimes="0;.35;.8;1" dur="6s" repeatCount="indefinite"/></rect>
 <text x="30" y="121" fill="#F9FAFB" font-family="monospace" font-size="29" font-weight="700">RACEMIND AI</text>
-<path d="M30 153H280" stroke="#FBBF24" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 250;250 0;0 250" dur="5s" repeatCount="indefinite"/></path>
+<path d="M30 153H280" stroke="#FDA4AF" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 250;250 0;0 250" dur="5s" repeatCount="indefinite"/></path>
 <text x="30" y="184" fill="#D1D5DB" font-family="monospace" font-size="13">Game-agnostic telemetry, race strategy and AI engineer. Backend implemented; clients pending.</text>
-<text x="620" y="243" fill="#FBBF24" font-family="monospace" font-size="11">▌<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+<text x="620" y="243" fill="#FDA4AF" font-family="monospace" font-size="11">▌<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
 </g>
 <text x="30" y="220" fill="#9CA3AF" font-family="monospace" font-size="11">STACK :: FASTAPI / WEBSOCKETS / SQLALCHEMY</text>
-<text x="30" y="243" fill="#FBBF24" font-family="monospace" font-size="11">└─ STATE :: BACKEND IMPLEMENTED</text>
-<text x="830" y="82" fill="#F59E0B" font-family="monospace" font-size="11">ASCII / SIGNAL FIELD</text>
-<g clip-path="url(#motionViewport)"><g transform="translate(835 100)" fill="#FBBF24" font-family="monospace" font-size="13" filter="url(#glow)">
-<circle cx="250" cy="13" r="5" fill="#FBBF24"><animate attributeName="r" values="5;12;5" dur="4s" repeatCount="indefinite"/></circle>
+<text x="30" y="243" fill="#FDA4AF" font-family="monospace" font-size="11">└─ STATE :: BACKEND IMPLEMENTED</text>
+<text x="830" y="82" fill="#E11D48" font-family="monospace" font-size="11">ASCII / SIGNAL FIELD</text>
+<g clip-path="url(#motionViewport)"><g transform="translate(835 100)" fill="#FDA4AF" font-family="monospace" font-size="13" filter="url(#glow)">
+<circle cx="250" cy="13" r="5" fill="#FDA4AF"><animate attributeName="r" values="5;12;5" dur="4s" repeatCount="indefinite"/></circle>
 <text x="0" y="0">     .----.       </text><text x="0" y="19">  __/ RACE \__    </text><text x="0" y="38"> /  _  __  _  \   </text><text x="0" y="57">|  (_) || (_)  |  </text><text x="0" y="76"> \____STRAT___/   </text><text x="0" y="95">   o        o</text>
-<path d="M0 107C30 85 62 128 94 104S155 83 188 105S228 124 265 96" fill="none" stroke="#FBBF24" stroke-width="1.8" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" values="0;-40" dur="2s" repeatCount="indefinite"/></path><circle cy="106" r="4" fill="#FBBF24"><animate attributeName="cx" values="0;250;0" dur="4s" repeatCount="indefinite"/></circle></g></g>
+<path d="M0 107C30 85 62 128 94 104S155 83 188 105S228 124 265 96" fill="none" stroke="#FDA4AF" stroke-width="1.8" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" values="0;-40" dur="2s" repeatCount="indefinite"/></path><circle cy="106" r="4" fill="#FDA4AF"><animate attributeName="cx" values="0;250;0" dur="4s" repeatCount="indefinite"/></circle></g></g>
 <text x="830" y="224" fill="#9CA3AF" font-family="monospace" font-size="10">RACE LINE // STRATEGY // RADIO</text>
-<text x="1170" y="269" fill="#FBBF24" font-family="monospace" font-size="10" text-anchor="end">OPEN SOURCE ↗</text>
+<text x="1170" y="269" fill="#FDA4AF" font-family="monospace" font-size="10" text-anchor="end">OPEN SOURCE ↗</text>
 </svg>
